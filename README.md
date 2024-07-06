@@ -1,1 +1,1 @@
-# potato
+# Potato Disease Classification
